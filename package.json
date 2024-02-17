@@ -1,0 +1,14 @@
+{
+  "name": "mention-me-if-i-like",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "omidbaharifar",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
